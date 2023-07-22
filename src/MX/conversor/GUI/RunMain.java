@@ -58,7 +58,7 @@ public class RunMain extends javax.swing.JFrame {
 
         bttn_moneda.setBackground(new java.awt.Color(255, 255, 255));
         bttn_moneda.setFont(new java.awt.Font("Arial Black", 1, 20)); // NOI18N
-        bttn_moneda.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Mx.COnversor.Img/camMon64x64.png"))); // NOI18N
+        bttn_moneda.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Mx.Conversor.Img/camMon64x64.png"))); // NOI18N
         bttn_moneda.setText("Monedas");
         bttn_moneda.setBorderPainted(false);
         bttn_moneda.setHideActionText(true);
@@ -78,9 +78,9 @@ public class RunMain extends javax.swing.JFrame {
             }
         });
 
-        lb_linkedin.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Mx.COnversor.Img/linkedin32x32.png"))); // NOI18N
+        lb_linkedin.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Mx.Conversor.Img/linkedin32x32.png"))); // NOI18N
 
-        lb_github.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Mx.COnversor.Img/github32x32.png"))); // NOI18N
+        lb_github.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Mx.Conversor.Img/github32x32.png"))); // NOI18N
 
         javax.swing.GroupLayout jp_MenuLayout = new javax.swing.GroupLayout(jp_Menu);
         jp_Menu.setLayout(jp_MenuLayout);
